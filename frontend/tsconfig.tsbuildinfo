@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Sidebar.tsx","./src/components/ui.tsx","./src/lib/api.ts","./src/pages/AcompanamientosPage.tsx","./src/pages/CatalogosPage.tsx","./src/pages/DashboardPage.tsx","./src/pages/EstrategiasPage.tsx","./src/pages/LoginPage.tsx","./src/pages/ReportesPage.tsx","./src/types/sses.ts"],"version":"5.9.3"}
